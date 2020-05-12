@@ -1,4 +1,4 @@
-iii
+tiii
 
 
 volatile int rate[10];                    // array to hold last ten IBI values
