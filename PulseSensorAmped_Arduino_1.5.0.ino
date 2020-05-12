@@ -17,7 +17,7 @@ https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino/blob/master/
 #define SERIAL_PLOTTER  2
 #include <Ticker.h>
 
-const char server[] = "191.168.43.184"; 
+const char server[] = "191.168.43.1845"; 
 
 const char* MY_SSID = "g2";
 const char* MY_PWD =  "qwerty123";
